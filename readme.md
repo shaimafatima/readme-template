@@ -1,16 +1,20 @@
+<div align="left">
+  <img src="msc_logo.png" alt="Your Name" width="200"/>
+</div>
+
 ## [Your Name]
 ![Header](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## Hi there 👋
 
-I'm a [your department/year] student at [Your College/University]. Welcome to my GitHub profile!
+I'm a <b>[your department/year]</b> student at Lords Institute of Engineering & Technology. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on [project or internship].
 - 🌱 I’m currently learning [specific technology or skill].
 - 🤔 I’m looking for help with [specific problem or challenge].
 - 💬 Ask me about [anything related to your interests or skills].
 - 📫 How to reach me: [your email or other contact information].
-- 😄 Pronouns: [your pronouns, e.g., he/him, she/her, they/them].
+- 😄 Pronouns: [your pronouns, e.g., he/him, she/her].
 - ⚡ Fun fact: [interesting fact about yourself].
 
 ### Languages and Tools:
