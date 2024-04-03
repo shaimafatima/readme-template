@@ -1,6 +1,4 @@
-<div align="left">
-  <img src="msc_logo.png" alt="Your Name" width="200"/>
-</div>
+
 
 ## [Your Name]
 ![Header](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
